@@ -1,0 +1,44 @@
+{
+
+    "News": [
+
+        {
+
+            "Title": "NewsA",
+
+            "Tags": ["Gossiping"],
+
+            "Date": "2021/06/26",
+
+            "Detail": {
+
+                "Author": "Wally",
+
+                "Content": "Hello World"
+
+            }
+
+        },
+
+        {
+
+            "Title": "NewsB",
+
+            "Tags": ["Social", "Wally"],
+
+            "Date": "2021/06/27",
+
+            "Detail": {
+
+                "Author": "Andy",
+
+                "Content": "Taiwan NO.1"
+
+            }
+
+        }
+
+    ]
+
+}
+
